@@ -2,6 +2,7 @@
 .git/
 .idea/
 __pycache__/
+build/
 dist/
 Pipfile
 Pipfile.lock
